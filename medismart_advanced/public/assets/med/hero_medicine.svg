@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#g)" opacity="0.25"/>
+  <g fill="#fff" stroke="#1f2937" stroke-width="3">
+    <rect x="120" y="160" rx="18" ry="18" width="220" height="80"/>
+    <circle cx="220" cy="200" r="14" fill="#f59e0b"/>
+    <rect x="380" y="130" rx="18" ry="18" width="280" height="120"/>
+    <rect x="520" y="110" rx="12" ry="12" width="40" height="30" fill="#e11d48"/>
+  </g>
+  <text x="40" y="60" font-size="24" fill="#0f172a" font-family="Arial, Helvetica, sans-serif">Medicine & Pharmacy</text>
+</svg>

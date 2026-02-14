@@ -1,0 +1,1 @@
+<?php session_start(); unset($_SESSION['admin']); header('Location: ' . '/medismart_advanced/admin/login.php'); exit; ?>

@@ -1,0 +1,1 @@
+<?php session_start(); session_unset(); session_destroy(); header('Location: ' . '/medismart_advanced/public/index.php'); exit; ?>

@@ -1,0 +1,4 @@
+To: seconduser@gmail.com
+Subject: Verify your MediSmart account
+
+Click to verify: http://localhost/medismart_advanced/public/verify.php?token=3b6a4e00f2fbe3ed8046b2661aeff855
